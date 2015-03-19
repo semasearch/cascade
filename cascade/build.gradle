@@ -1,0 +1,44 @@
+buildscript {
+    repositories {
+        maven { url "https://repo.spring.io/libs-release" }
+        mavenLocal()
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:1.1.10.RELEASE")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'spring-boot'
+
+jar {
+    baseName = 'gs-accessing-data-neo4j'
+    version =  '0.1.0'
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven { url "https://repo.spring.io/libs-release" }
+    maven { url "https://m2.neo4j.org" }
+}
+
+dependencies {
+    compile("org.springframework.boot:spring-boot-starter")
+    compile("org.springframework:spring-context")
+    compile("org.springframework:spring-tx")
+    compile("org.springframework.data:spring-data-neo4j")
+    compile("org.springframework.data:spring-data-neo4j-tx:3.1.4.RELEASE")
+    compile("org.springframework.batch:spring-batch-core")
+    compile("org.springframework.batch:spring-batch-infrastructure")
+    compile("org.hibernate:hibernate-validator")
+    compile group: 'com.google.guava', name: 'guava', version: '12.0'
+    testCompile("junit:junit")
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '1.11'
+}

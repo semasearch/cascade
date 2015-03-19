@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="neo4j-udc-2.1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-udc/2.1.2/neo4j-udc-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

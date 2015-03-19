@@ -1,0 +1,10 @@
+{entity:[{name: "", dob: "", address: ""}], 
+
+enrichment:[
+{matcher: {name: "", dob: ""}, data: {key : value}}
+
+], 
+
+relationships:[{},
+
+]}

@@ -1,0 +1,29 @@
+encoding "utf8";
+
+	TTextMinerConfig {
+		Dictionary = "dic.gzt"
+		//PrettyOutput = "pretty.html"
+		Language = "ukr"
+		//PrintRules = "rules.txt"
+		
+		Input = {
+		    Format = html;
+			//File = "1.txt"
+			Dir = "assignments"
+			}
+
+		Articles = [
+			{
+				Name = "AssignmentDate" 
+			}]
+			
+		Facts = [
+			{
+				Name = "FactDate" 
+			}]
+
+		Output = {
+			File = "assignment_date.xml";
+			Format = xml;
+		}
+	}

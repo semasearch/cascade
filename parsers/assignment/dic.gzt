@@ -1,0 +1,10 @@
+﻿encoding "utf8";
+
+import "base.proto";
+import "articles_base.proto";
+import "fact_types.proto";
+
+TAuxDicArticle "Assignment"
+{
+	key = {"tomita:assignment.cxx" type=CUSTOM}
+}

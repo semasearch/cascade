@@ -1,0 +1,16 @@
+﻿encoding "utf8";
+
+import "base.proto";
+import "articles_base.proto";
+import "fact_types.proto";
+
+TAuxDicArticle "month"
+{
+    key = "січень" | "лютий" | "березень" | "квітень" | "травень" | "червень" |
+          "липень" | "серпень" |   "вересень" | "жовтень" | "листопад" | "декабрь"
+}
+
+TAuxDicArticle "AssignmentDate"
+{
+	key = {"tomita:assignment_date.cxx" type=CUSTOM}
+}

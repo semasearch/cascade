@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ada0e797-2bd9-4b49-9c98-916046851537" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/Application.java" afterPath="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Person.java" afterPath="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/PersonRepository.java" afterPath="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/PersonRepository.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/SearchTraversalService.java" afterPath="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/SearchTraversalService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/VisualEditor.java" afterPath="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/VisualEditor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cascadeui2/run.cmd" afterPath="$PROJECT_DIR$/../cascadeui2/run.cmd" />
+    </list>
+    <ignored path="dataload.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419515650467" ignored="false" />
+    <file path="/fragment.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254260786" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1418679561863" ignored="false" />
+    <file path="/Application.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419287244086" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1418684496716" ignored="false" />
+    <file path="/DataLoader.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1418680741167" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/compiler.xml" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1418679561710" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/encodings.xml" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1418679561863" ignored="false" />
+    <file path="/Person.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419175900034" ignored="false" />
+    <file path="/Car.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419246635799" ignored="false" />
+    <file path="/CarRepository.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1418937983645" ignored="false" />
+    <file path="/PersonRepository.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419284810156" ignored="false" />
+    <file path="/FamilyRelationship.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1418768989672" ignored="false" />
+    <file path="/FamilyRelationshipFieldSetMapper.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1418769087588" ignored="false" />
+    <file path="/SearchTraversalService.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419516078537" ignored="false" />
+    <file path="/DataLoadService.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419192426671" ignored="false" />
+    <file path="/DataEnricherService.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419189966107" ignored="false" />
+    <file path="/Company.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419165859731" ignored="false" />
+    <file path="/CompanyRepository.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1418939339028" ignored="false" />
+    <file path="/CompanyFieldSetMapper.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419165884463" ignored="false" />
+    <file path="/DataLookupService.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254198541" ignored="false" />
+    <file path="/CrawlingTraversalService.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419194284171" ignored="false" />
+    <file path="/Realestate.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419175045010" ignored="false" />
+    <file path="/RealestateRepository.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419175095801" ignored="false" />
+    <file path="/RealestateFieldSetMapper.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419175363487" ignored="false" />
+    <file path="/pom.xml" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419196661979" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/resources/logback.xml" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419197543335" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/pom.xml" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419268502830" ignored="false" />
+    <file path="/PersonView.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419256809732" ignored="false" />
+    <file path="/CascadeService.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419255999470" ignored="false" />
+    <file path="/Neo4JConf.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419266704083" ignored="false" />
+    <file path="/PersonForm.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419256181660" ignored="false" />
+    <file path="/ProjectView.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254355440" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/8A918481ACCDF752034A735856DE9B2A.cache.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693781" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/org.vaadin.neo4j.vaadin.AppWidgetSet.devmode.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693781" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/deferredjs/8A918481ACCDF752034A735856DE9B2A/1.cache.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693782" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/deferredjs/8A918481ACCDF752034A735856DE9B2A/2.cache.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693782" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/deferredjs/8A918481ACCDF752034A735856DE9B2A/3.cache.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693782" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/deferredjs/8A918481ACCDF752034A735856DE9B2A/4.cache.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693782" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/deferredjs/8A918481ACCDF752034A735856DE9B2A/5.cache.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693782" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/deferredjs/8A918481ACCDF752034A735856DE9B2A/6.cache.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693782" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/deferredjs/8A918481ACCDF752034A735856DE9B2A/7.cache.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693782" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/deferredjs/8A918481ACCDF752034A735856DE9B2A/8.cache.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693781" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/public/VAADIN/widgetsets/org.vaadin.neo4j.vaadin.AppWidgetSet/org.vaadin.neo4j.vaadin.AppWidgetSet.nocache.js" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245693782" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/org/cascade/ui/Neo4JConf.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419245892050" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/resources/application.properties" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419267657642" ignored="false" />
+    <file path="/AppWidgetSet.gwt.xml" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419246298664" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/org/cascade/ui/controls/AppWidgetSet.gwt.xml" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419246300304" ignored="false" />
+    <file path="/welcome.md" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419252504901" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/resources/welcome.md" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419252525181" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/resources/personsview.md" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419252541142" ignored="false" />
+    <file path="/personsview.md" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419252541142" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/org/cascade/ui/controls/SystemView.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419252937286" ignored="false" />
+    <file path="/SystemView.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419255430698" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/Neo4JConf.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419267052630" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/MainUI.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419255674750" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/Application.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419262177084" ignored="false" />
+    <file path="/MainUI.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419255357193" ignored="false" />
+    <file path="/PersonFormController.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419256254899" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/PersonFormController.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419256765474" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/ProjectView.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419255674751" ignored="false" />
+    <file path="/VisualEditor.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419517117430" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/PersonView.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419257247424" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/PersonForm.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419256306139" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/SystemView.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419255674751" ignored="false" />
+    <file path="/AbstractPositionableEntity.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254744253" ignored="false" />
+    <file path="/Ppl.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254734549" ignored="false" />
+    <file path="/Project.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254752312" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/AppService.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254969954" ignored="false" />
+    <file path="/AppService.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254758046" ignored="false" />
+    <file path="/ProjectRepository.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254926818" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/ProjectRepository.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254926818" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/PplRepository.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419255112260" ignored="false" />
+    <file path="/PplRepository.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419254936515" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/events/ProjectsModified.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419255006075" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/controls/events/PersonsModified.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419255011498" ignored="false" />
+    <file path="$PROJECT_DIR$/../cascadeui2/src/main/java/ua/com/cascade/ui/CascadeService.java" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419256025759" ignored="false" />
+    <file path="/systemview.md" changelist="ada0e797-2bd9-4b49-9c98-916046851537" time="1419255332282" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/CrawlingTraversalService.java" line="42" class="ua.com.cascade.core.service.CrawlingTraversalService" package="ua.com.cascade.core.service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dataload" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Application.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="28" selection-start="3394" selection-end="3394" vertical-scroll-proportion="0.46896553">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="18" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="12" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchTraversalService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/SearchTraversalService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="98" column="18" selection-start="3668" selection-end="3668" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Neo4jOperations.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-neo4j/3.1.4.RELEASE/spring-data-neo4j-3.1.4.RELEASE.jar!/org/springframework/data/neo4j/template/Neo4jOperations.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="103" selection-start="3747" selection-end="3747" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Realestate.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Realestate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="25" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FamilyRelationship.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/FamilyRelationship.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="40" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Company.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Company.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="25" selection-start="760" selection-end="760" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonRepository.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/PersonRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="11" selection-start="641" selection-end="695" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RealestateRepository.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/RealestateRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="4" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableTasks">
+      <set>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles the outputs of this project." />
+          <option name="name" value="assemble" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+          <option name="name" value="bootRepackage" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+          <option name="name" value="bootRun" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles and tests this project." />
+          <option name="name" value="build" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+          <option name="name" value="buildDependents" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles and tests this project and all projects it depends on." />
+          <option name="name" value="buildNeeded" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Runs all checks." />
+          <option name="name" value="check" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles classes 'main'." />
+          <option name="name" value="classes" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Deletes the build directory." />
+          <option name="name" value="clean" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Compiles Java source 'main:java'." />
+          <option name="name" value="compileJava" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Compiles Java source 'test:java'." />
+          <option name="name" value="compileTestJava" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+          <option name="name" value="distTar" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+          <option name="name" value="distZip" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="name" value="findMainClass" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
+          <option name="name" value="installApp" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles a jar archive containing the main classes." />
+          <option name="name" value="jar" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Generates Javadoc API documentation for the main source code." />
+          <option name="name" value="javadoc" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Processes resources 'main:resources'." />
+          <option name="name" value="processResources" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Processes resources 'test:resources'." />
+          <option name="name" value="processTestResources" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Runs this project as a JVM application" />
+          <option name="name" value="run" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+          <option name="name" value="startScripts" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Runs the unit tests." />
+          <option name="name" value="test" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles classes 'test'." />
+          <option name="name" value="testClasses" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="name" value="wrapper" />
+        </GradleTaskDescriptor>
+      </set>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/DataEnricherService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/DataLoadService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/CrawlingTraversalService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/DataLookupService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/CompanyRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/CarRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/RealestateRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Realestate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/FamilyRelationship.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Company.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/PersonRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/SearchTraversalService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/cascade/core/Application.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cascade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cascade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cascade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cascade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cascade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="209" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="209" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="213" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="209" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="888" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="884" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="208" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="202" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ua.com.cascade.data.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zmatchyshyn\Projects\zenyk\semantic\cascade.src\cascade\dataload\src\main\java\ua\com\cascade\core" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ua.com.cascade" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ua.com.cascade.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ua.com.cascade.core.Application" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dataload" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Application" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ada0e797-2bd9-4b49-9c98-916046851537" name="Default" comment="" />
+      <created>1418676440000</created>
+      <updated>1418676440000</updated>
+    </task>
+    <task id="LOCAL-00001" summary="introduced Car model and refactored packages">
+      <created>1418676900231</created>
+      <updated>1418676900231</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967825" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="introduced Car model and refactored packages" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="introduced Car model and refactored packages" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/CrawlingTraversalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="53" selection-start="1032" selection-end="1072" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/DataLoadService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="40" selection-start="6228" selection-end="6228" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/DataEnricherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="49" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/DataLookupService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="27" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/CompanyRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="58" selection-start="253" selection-end="268" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/CarRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="4" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Realestate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="25" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/FamilyRelationship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="40" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="25" selection-start="760" selection-end="760" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="18" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="12" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-neo4j/3.1.4.RELEASE/spring-data-neo4j-3.1.4.RELEASE.jar!/org/springframework/data/neo4j/template/Neo4jOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="103" selection-start="3747" selection-end="3747" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/PersonRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="11" selection-start="641" selection-end="695" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/repository/RealestateRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="4" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/service/SearchTraversalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="18" selection-start="3668" selection-end="3668" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/cascade/core/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="28" selection-start="3394" selection-end="3394" vertical-scroll-proportion="0.46896553">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
